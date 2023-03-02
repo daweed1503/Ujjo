@@ -1,0 +1,13 @@
+/node_modules
+/src
+package-lock.json
+.DS_STORE
+.idea/
+.idea/*
+.vscode
+.editorconfig
+.ecrc
+.htmlhintrc
+.stylelintrc.json
+*.sublime*
+npm-debug.*
